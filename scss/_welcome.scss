@@ -1,0 +1,35 @@
+//Welcome Section
+  
+.welcome {
+    background-color: rgb(20, 219, 20);
+  }
+  
+  .line2 {
+    height: 6px;
+    width: 30%;
+    background-color: white;
+    display: inline-block;
+  }
+  
+  .welcome {
+    h1 {
+      font-size: 3rem;
+      font-weight: bold;
+    }
+  
+    .card {
+      border: none;
+      border-radius: 0;
+      cursor: pointer;
+    }
+  
+    i {
+      font-size: 45px;
+      color: rgb(20, 219, 20);
+    }
+  
+    h2 {
+      font-weight: lighter;
+      padding: 10px 0px;
+    }
+  }
